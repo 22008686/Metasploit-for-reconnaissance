@@ -112,5 +112,4 @@ The Metasploit framework for reconnaissance is examined successfully.
 
 
 
-## RESULT:
-The Metasploit framework for reconnaissance is  examined successfully
+
